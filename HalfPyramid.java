@@ -9,7 +9,7 @@ To print the following pattern:
 */
 import java.util.*;
 
-public class Pyramid
+public class HalfPyramid
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
